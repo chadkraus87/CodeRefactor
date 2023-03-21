@@ -2,36 +2,32 @@
 
 ## Description
 
-Using the provided Starter Code for the Horiseon main landing page, I have refactored both the HTML and CSS Style Sheet to improve SEO visibility and accessbility features.
+This replicates a marketing page for a marketing landing page. I have refactored both the HTML and CSS to improve SEO visibility and accessbility features. Including semantic tags, by adding an h1, a main, and a footer to meet Google Standards. Adding alt tags to images for accessibility readers.
+
+[Deployed App](https://chadkraus87.github.io/CodeRefactor/)
+
+![Front End Landing Page](assets/images/frontend.png)
 
 ## Installation
 
-N/A
+No installation necessary for this application. If you would like to use this code, you may clone down the repo.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+This highlights how to create a marketing page with SEO and accessiblity standards.
 
 ## Credits
 
-<a href="https://github.com/coding-boot-camp/urban-octo-telegram">Starter Code</a>
+[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-<a href="https://www.w3schools.com/html/html5_semantic_elements.asp">HTML Semantic Elements</a>
+[CSS Selector](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector">CSS Selector</a>
+[CSS Layout - The Position Property](https://www.w3schools.com/css/css_positioning.asp)
 
-<a href="https://www.w3schools.com/css/css_positioning.asp">CSS Layout - The Position Property</a>
-
-<a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">Professional README Guide</a>
+[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
 
 MIT License
 
----
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
