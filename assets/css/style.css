@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Starts header styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +48,10 @@ body {
     text-decoration: none;
 }
 
+/* Ends header code */
+
+/* Hero banner */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +60,10 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+/* End hero banner */
+
+/* Main content */
 
 .content {
     width: 75%;
@@ -116,6 +125,10 @@ body {
     font-size: 36px;
 }
 
+/* End content code */
+
+/* Aside styles */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -158,6 +171,10 @@ body {
     color: #ffffff;
 }
 
+/* End Aside styles */
+
+/* Footer */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -168,3 +185,5 @@ body {
 .footer h4 {
     font-size: 20px;
 }
+
+/* End Footer */
